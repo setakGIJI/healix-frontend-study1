@@ -33,8 +33,7 @@ Healix 프론트엔드 교육용 레포지토리
 - 현재 파일들이 정리가 되어 있지 않습니다. 이를 체계적으로 정리합니다.
 - 참고 문헌: [Feature Sliced Design](https://emewjin.github.io/feature-sliced-design/)
 - 작성이 끝난 후 본인의 ID로 브랜치를 생성하여 PR을 제출하세요.
- 1. Home/App/Price 페이지를 나눈다
- 2. 헤더에서 각각의 페이지에 접근 가능하게 한다.
+
 
 ## React Router 적용 (Step 2)
 
@@ -42,6 +41,8 @@ Healix 프론트엔드 교육용 레포지토리
 - 참고 자료: [React Router 공식 문서](https://reactrouter.com/)
   - [client-side-routing](https://reactrouter.com/en/main/start/tutorial#client-side-routing)
   - [browser-router](https://reactrouter.com/en/main/router-components/browser-router)
+1. Home/App/Price 페이지를 나눈다
+2. 헤더에서 각각의 페이지에 접근 가능하게 한다.
 ## Tailwind CSS 다루기 (Step 3)
 
 - Tailwind CSS를 이용하여 효율적이고 일관된 스타일링을 적용합니다.
