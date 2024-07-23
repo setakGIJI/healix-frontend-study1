@@ -1,9 +1,9 @@
 import { useState } from 'react'
-import Header from './Header'
-import Home from './Home'
-import About from './About'
-import Price from './Price'
-import Footer from './Footer'
+import Header from './widgets/Header'
+import Home from './page/Home'
+import About from './page/About'
+import Price from './page/Price'
+import Footer from './widgets/Footer'
 
 function App() {
 
